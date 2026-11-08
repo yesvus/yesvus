@@ -1,12 +1,15 @@
 # Yusuf Emir Samsa
 
-Mathematical Engineering student at Istanbul Technical University. I use coding agents to build software, and I take responsibility for turning projects into working, deployed systems.
+**Backend systems · production reliability · developer tooling**
 
-A couple of projects I've taken to production:
+Mathematical Engineering student at Istanbul Technical University. I build and operate software, often with coding agents; I own the architecture, integration, verification, and delivery.
 
-- **[Yesmenu](https://yesmenu.app)** — A QR-menu product for restaurants, with customer-facing menus and a management dashboard. Built and launched as an independent product project.
-- **[Sentinel](https://github.com/UniCT-WebDevelopment/Sentinel)** — A study and time tracker with authenticated sessions and a separate real-time service. Deployed publicly; now retired from active development.
+**Selected work**
 
-I'm interested in backend systems, production reliability, and the engineering decisions that turn an idea into software people can actually use.
+- **[Yesmenu](https://yesmenu.app)** — Shipped a restaurant QR-menu product with a customer-facing experience and management dashboard.
+- **[claude-statusline](https://github.com/yesvus/claude-statusline)** — A Rust statusline for Claude Code, with prebuilt macOS/Linux releases. In a 50-run Linux comparison, mean execution time was **0.50 ms vs 24.70 ms** for a Bash + jq implementation ([method and results](https://github.com/yesvus/claude-statusline#comparison)).
+- **[Sentinel](https://github.com/UniCT-WebDevelopment/Sentinel)** — Deployed study and time tracker with authentication and a separate real-time service; now retired from active development.
 
-More at **[yesvus.com](https://yesvus.com)**.
+I'm especially interested in debugging performance and failure modes, keeping production systems reliable, and building tools people can actually use.
+
+[Website](https://yesvus.com) · [Open-source projects](https://github.com/yesvus?tab=repositories&q=&type=public)
