@@ -1,15 +1,9 @@
 # Yusuf Emir Samsa
 
-**Backend systems · production reliability · developer tooling**
+I build and operate software, from products to the infrastructure behind them.
 
-Mathematical Engineering student at Istanbul Technical University. I build and operate software, often with coding agents; I own the architecture, integration, verification, and delivery.
+I care about understanding how systems work, why they fail, and whether a simpler solution already exists. I use coding agents extensively, but own the decisions, verification, and delivery.
 
-**Selected work**
+Mathematical Engineering student at Istanbul Technical University.
 
-- **[Yesmenu](https://yesmenu.app)** — Shipped a restaurant QR-menu product with a customer-facing experience and management dashboard.
-- **[claude-statusline](https://github.com/yesvus/claude-statusline)** — A Rust statusline for Claude Code, with prebuilt macOS/Linux releases. In a 50-run Linux comparison, mean execution time was **0.50 ms vs 24.70 ms** for a Bash + jq implementation ([benchmark table](https://github.com/yesvus/claude-statusline#performance-comparison)).
-- **[Sentinel](https://github.com/UniCT-WebDevelopment/Sentinel)** — Deployed study and time tracker with authentication and a separate real-time service; now retired from active development.
-
-I'm especially interested in debugging performance and failure modes, keeping production systems reliable, and building tools people can actually use.
-
-[Website](https://yesvus.com) · [Open-source projects](https://github.com/yesvus?tab=repositories&type=public)
+[yesvus.com](https://yesvus.com)
