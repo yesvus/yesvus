@@ -1,20 +1,12 @@
 # Yusuf Emir Samsa
 
-I work on backend systems, the infrastructure they run on, and making agent-assisted development **verifiable and safe**.
+Mathematical Engineering student at Istanbul Technical University. I use coding agents to build software, and I take responsibility for turning projects into working, deployed systems.
 
-I'm studying Mathematical Engineering at Istanbul Technical University. I'm most interested in what happens beyond the happy path: failure modes, isolation, authorization, recovery, and the trade-offs behind architectural decisions.
+A couple of projects I've taken to production:
 
-### Selected work
+- **[Yesmenu](https://yesmenu.app)** — A QR-menu product for restaurants, with customer-facing menus and a management dashboard. Built and launched as an independent product project.
+- **[Sentinel](https://github.com/UniCT-WebDevelopment/Sentinel)** — A study and time tracker with authenticated sessions and a separate real-time service. Deployed publicly; now retired from active development.
 
-- **Production infrastructure.** Operating a single-node Kubernetes environment with GitOps/Argo CD, monitoring, alerting, PostgreSQL backups, and tested point-in-time recovery. I care about restore procedures as much as deployment.
-- **Birted.** Building a bookselling platform with Medusa and Next.js, including commerce workflows, staging, deployment, and data boundaries. [Website](https://www.birted.com/)
-- **Agent tooling.** Developing a GitHub App for code review and issue triage, with signed webhooks, bounded automation, and explicit checks before automated changes are trusted.
-- **Kovan — in development.** Exploring how to coordinate coding agents across repositories without losing permission boundaries, human decisions, and delivery evidence. Not a shipped product yet.
+I'm interested in backend systems, production reliability, and the engineering decisions that turn an idea into software people can actually use.
 
-### Engineering approach
-
-**Understand before automating.** Prefer a small system with observable failures over a complicated one that merely appears autonomous. A convincing model response isn't verification; tests, review gates, and recovery procedures matter.
-
-[Website & writing](https://yesvus.com) · [Birted](https://www.birted.com/) · [Leotron — client site](https://www.leotron.com.tr/)
-
-Some of this work has private source repositories. I link to public artifacts rather than inaccessible code.
+More at **[yesvus.com](https://yesvus.com)**.
